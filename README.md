@@ -1,12 +1,8 @@
-# Hi there! 👋
-
-I'm Aman Pandey
+# Hi there! 👋 I'm Aman Pandey 
+a passionate software developer interested in Front-End and currently learning and exploring Back-End technology like Advanced Java.
 
 🌱 I'm currently learning:
 - Advanced Java
-
-👯 I'm looking to collaborate on:
-- Any interesting open-source project
 
 🤔 I'm looking for help with:
 - Tips and resources for mastering Advanced Java
